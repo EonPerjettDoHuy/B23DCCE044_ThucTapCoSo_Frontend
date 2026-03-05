@@ -37,7 +37,8 @@ Biết đọc HTML, CSS để kết hợp với một công cụ vibcoding front
 > (file / link / screenshot / demo URL)
 
 ### Tuần 1 – Khởi động
-
+Link báo cáo:
+https://docs.google.com/spreadsheets/d/1S2tsQJnuh-mICJpnbiyhMB5-7fJ2EbfFkq_q3LoHwCs/edit?gid=0#gid=0
 | Nhiệm vụ | Trạng thái | Kết quả đầu ra | Ghi chú |
 | -------- | ---------- | -------------- | ------- |
 |          | [ ] / [x]  |                |         |
