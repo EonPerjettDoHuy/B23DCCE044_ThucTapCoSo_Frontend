@@ -5,10 +5,10 @@
 ## 1. Thông tin sinh viên
 
 - **Họ tên: Đỗ Đăng Huy**
-- **MSSV:B23DCCE044**
-- **Lớp:D23CQCE05-B**
-- **Email:nt0150568435@gmail.com**
-- **GitHub username:EonPerjettDoHuy**
+- **MSSV: B23DCCE044**
+- **Lớp: D23CQCE05-B**
+- **Email: nt0150568435@gmail.com**
+- **GitHub username: EonPerjettDoHuy**
 
 ---
 
@@ -22,7 +22,7 @@
 
 **1–3 kỹ năng chính:**  
 (Ví dụ: Backend Framework, Docker, CI/CD, AI tool, …)
-Biết đọc HTML, CSS để kết hợp với một công cụ vibcoding frontend không bị lỗi
+Biết đọc HTML, CSS để kết hợp với một công cụ vibcoding frontend để không bị lỗi, biết mình đang code gì, đọc được code
 **Bài toán / nội dung áp dụng cụ thể:**  
 (Mô tả ngắn gọn, rõ ràng)
 
