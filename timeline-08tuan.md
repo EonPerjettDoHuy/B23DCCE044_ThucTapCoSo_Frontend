@@ -22,10 +22,12 @@
 
 **1–3 kỹ năng chính:**  
 (Ví dụ: Backend Framework, Docker, CI/CD, AI tool, …)
-Biết đọc HTML, CSS, Javascript để kết hợp với một công cụ vibcoding frontend để không bị lỗi, biết mình đang code gì, đọc được code
+Biết đọc HTML, CSS, UX/UI để kết hợp với một công cụ vibcoding frontend để không bị lỗi, biết mình đang code gì, đọc được code
 **Bài toán / nội dung áp dụng cụ thể:**  
 (Mô tả ngắn gọn, rõ ràng) 
-Web liệt kê cards và các deck card của boardgame
+Web liệt kê cards và các deck card của boardgame:
+- Deck nằm trong game nào, thuộc bộ cơ bản hay mở rộng, hướng dẫn chơi
+- Card có các mô tả, chức năng
 
 **Link GitHub repository (nếu có):** https://github.com/EonPerjettDoHuy/B23DCCE044_ThucTapCoSo_Frontend
 **Làm việc nhóm (nếu có):**
